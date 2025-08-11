@@ -14,6 +14,8 @@ Sample reports are included in the `output_reports/` folder.
 
 ## 📂 Dataset Requirements
 
+Sample sales dataset from AdventureWorks2019 is also added in output reports folder for reference. All the reports were generated on that dataset. 
+
 Your input dataset must be a CSV file containing these columns:
 
 | quantity | sale_date | product_id | unit_price | client_id | sale_id | total_price |

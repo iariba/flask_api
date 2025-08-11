@@ -17,7 +17,6 @@ instance/
 *.log
 
 # IDE files
-.vscode/
 .idea/
 
 # OS junk
@@ -28,3 +27,5 @@ Thumbs.db
 catboost_info/
 uploads/
 tmp/
+config.bat
+node_modules
